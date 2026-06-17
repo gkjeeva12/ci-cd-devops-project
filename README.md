@@ -54,3 +54,6 @@ ci-cd-devops-project/
 ## Application Output
 
 ![Application Output](screenshot/output.png)
+## GitHub Actions Workflow
+
+![GitHub Actions Success](screenshot/Action.png)
