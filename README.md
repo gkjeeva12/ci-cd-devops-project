@@ -17,7 +17,6 @@ This project demonstrates the implementation of a Continuous Integration and Con
 * Python
 * Flask
 * Docker
-* Git
 * GitHub
 * GitHub Actions
 
@@ -54,4 +53,4 @@ ci-cd-devops-project/
 * Source code management using Git
 ## Application Output
 
-![Application Output](screenshots/output.png)
+![Application Output](screenshot/output.png)
